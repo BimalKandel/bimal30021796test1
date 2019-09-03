@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alzebra test", "alzebra test\alzebra test.csproj", "{B4CD5160-D6E8-4DD0-BDF7-3CDFACC36416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2", "Task 2\Task 2.csproj", "{B3B10164-C10B-4D93-8234-0CE48D459B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CD5160-D6E8-4DD0-BDF7-3CDFACC36416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CD5160-D6E8-4DD0-BDF7-3CDFACC36416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CD5160-D6E8-4DD0-BDF7-3CDFACC36416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CD5160-D6E8-4DD0-BDF7-3CDFACC36416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B10164-C10B-4D93-8234-0CE48D459B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B10164-C10B-4D93-8234-0CE48D459B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B10164-C10B-4D93-8234-0CE48D459B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B10164-C10B-4D93-8234-0CE48D459B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC74FC73-A6B6-4124-9BDE-F70B1504292E}
+	EndGlobalSection
+EndGlobal
